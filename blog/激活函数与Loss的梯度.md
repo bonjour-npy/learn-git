@@ -66,7 +66,7 @@
      $$
 
      $$
-     \bigg\vert \big\vert y - f(x) \big\vert \bigg\vert_2 = \sqrt[2]{\sum{[y - f(x)]^2}}
+     \Vert y - f(x) \Vert_2 = \sqrt[2]{\sum{[y - f(x)]^2}}
      \tag{2}
      $$
 
